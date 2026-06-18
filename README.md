@@ -2,7 +2,7 @@
   <h1>Hey 👋 I’m Winnie Atieno</h1>
 
   <p>
-    Frontend developer focused on building clean, responsive web apps that feel good to use — not just look good.
+    Frontend developer focused on building clean, responsive web apps that feel good to use not just look good.
   </p>
 
   <p>
